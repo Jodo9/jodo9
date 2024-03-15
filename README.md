@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Image alt](https://github.com**/{username}/{repository}/raw/{branch}/{path}/image.png**)
+
 ### 👨‍💻 About Me :
 I am a cryptocurrency tester  from Ukraine.
 🔭 I’m working as a cryptocurrency tester and a bit in NFT.
