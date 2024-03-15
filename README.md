@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Image alt](https://github.com**/{username}/{repository}/raw/{branch}/{path}/image.png**)
+![Image alt](https://github.com/Jodo9/jodo9/blob/main/niga.gif)
 
 ### 👨‍💻 About Me :
 I am a cryptocurrency tester  from Ukraine.
